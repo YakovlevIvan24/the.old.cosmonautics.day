@@ -1,0 +1,23 @@
+﻿  SEM.2.4.cpp
+C:\Users\kurno\OneDrive\Рабочий стол\Версия 0.1\SEM.2.4\map.h(38,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\kurno\OneDrive\Рабочий стол\Версия 0.1\SEM.2.4\SEM.2.4.cpp(50,1): warning C4305: =: усечение из "double" в "float"
+C:\Users\kurno\OneDrive\Рабочий стол\Версия 0.1\SEM.2.4\SEM.2.4.cpp(51,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\kurno\OneDrive\Рабочий стол\Версия 0.1\SEM.2.4\SEM.2.4.cpp(57,1): warning C4305: =: усечение из "double" в "float"
+C:\Users\kurno\OneDrive\Рабочий стол\Версия 0.1\SEM.2.4\SEM.2.4.cpp(58,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\kurno\OneDrive\Рабочий стол\Версия 0.1\SEM.2.4\SEM.2.4.cpp(64,1): warning C4305: =: усечение из "double" в "float"
+C:\Users\kurno\OneDrive\Рабочий стол\Версия 0.1\SEM.2.4\SEM.2.4.cpp(65,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\kurno\OneDrive\Рабочий стол\Версия 0.1\SEM.2.4\SEM.2.4.cpp(71,1): warning C4305: =: усечение из "double" в "float"
+C:\Users\kurno\OneDrive\Рабочий стол\Версия 0.1\SEM.2.4\SEM.2.4.cpp(72,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\kurno\OneDrive\Рабочий стол\Версия 0.1\SEM.2.4\SEM.2.4.cpp(81,20): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\kurno\OneDrive\Рабочий стол\Версия 0.1\SEM.2.4\SEM.2.4.cpp(82,24): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\kurno\OneDrive\Рабочий стол\Версия 0.1\SEM.2.4\SEM.2.4.cpp(87,50): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\kurno\OneDrive\Рабочий стол\Версия 0.1\SEM.2.4\SEM.2.4.cpp(88,50): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\kurno\OneDrive\Рабочий стол\Версия 0.1\SEM.2.4\SEM.2.4.cpp(92,50): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\kurno\OneDrive\Рабочий стол\Версия 0.1\SEM.2.4\SEM.2.4.cpp(93,50): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\kurno\OneDrive\Рабочий стол\Версия 0.1\SEM.2.4\SEM.2.4.cpp(95,65): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\kurno\OneDrive\Рабочий стол\Версия 0.1\SEM.2.4\SEM.2.4.cpp(123,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\kurno\OneDrive\Рабочий стол\Версия 0.1\SEM.2.4\SEM.2.4.cpp(181,20): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\kurno\OneDrive\Рабочий стол\Версия 0.1\SEM.2.4\SEM.2.4.cpp(186,66): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\kurno\OneDrive\Рабочий стол\Версия 0.1\SEM.2.4\SEM.2.4.cpp(210,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kurno\OneDrive\Рабочий стол\Версия 0.1\SEM.2.4\SEM.2.4.cpp(210,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  SEM.2.4.vcxproj -> C:\Users\kurno\OneDrive\Рабочий стол\Версия 0.1\SEM.2.4\Debug\SEM.2.4.exe
